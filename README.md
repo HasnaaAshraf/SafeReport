@@ -2,7 +2,7 @@
 
 SafeReport.Web is a **Blazor WebAssembly** application for managing and reporting incidents. It supports a **multilingual interface (Arabic / English)** and includes features such as **filtering, pagination, notifications, and printing**, with a focus on **performance and scalability**.
 
-## 🔐 Authentication & Authorization
+## Authentication & Authorization
 
 * Secure login with **JWT-based authentication**
 * **Role-based authorization** (e.g., Admin-only actions)
